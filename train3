@@ -1,0 +1,1767 @@
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/gpt_2_simple/src/sample.py:17: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/gpt_2_simple/src/memory_saving_gradients.py:62: get_backward_walk_ops (from tensorflow.contrib.graph_editor.select) is deprecated and will be removed after 2019-06-06.
+Instructions for updating:
+Please use tensorflow.python.ops.op_selector.get_backward_walk_ops.
+Loading checkpoint checkpoint/run1/model-12064
+INFO:tensorflow:Restoring parameters from checkpoint/run1/model-12064
+  0%|          | 0/1 [00:00<?, ?it/s]Loading dataset...
+100%|██████████| 1/1 [00:04<00:00,  4.55s/it]
+dataset has 760465 tokens
+Training...
+[12070 | 28.58] loss=0.15 avg=0.15
+[12080 | 61.05] loss=0.09 avg=0.12
+[12090 | 93.44] loss=0.16 avg=0.13
+[12100 | 125.78] loss=0.12 avg=0.13
+[12110 | 158.13] loss=0.09 avg=0.12
+[12120 | 190.43] loss=0.09 avg=0.11
+[12130 | 222.72] loss=0.09 avg=0.11
+[12140 | 255.08] loss=0.14 avg=0.12
+[12150 | 287.42] loss=0.13 avg=0.12
+[12160 | 319.72] loss=0.13 avg=0.12
+[12170 | 352.02] loss=0.05 avg=0.11
+[12180 | 384.33] loss=0.15 avg=0.12
+[12190 | 416.72] loss=0.19 avg=0.12
+[12200 | 449.02] loss=0.18 avg=0.13
+======== SAMPLE 1 ========
+ thing you do find. And at first I didn’t think too much about it, maybe a little bit worried I wasn’t part of something that was going to hurt people, but as it went on I started to notice more and more how real it seemed. Not just with myself, but with people I thought were my friends.
+
+It started with a dance rehearsal for a jigsaw dance we were doing. It was a little bit risque, and we were pretty light-hearted, but we always end up finding ourselves somewhere where we didn’t stop until the end of the performance. We were headed back to the dressing room, and after a minute of awkward silence, I asked him what the hell he thought he was doing.
+
+“He’s got something to hide.”
+
+I expected Grant to be uncomfortable talking to me like this, but the more I listened, the more comfortable he seemed with the question.
+
+“It’s a box.”
+
+I was already rolling through them when I said that.
+
+Then I asked him if I could help. Had Lynette given him something to take? A key?
+
+The performance was fine, I thought. I turned back to Grant and we were kissing. It was even cooler than I’d been expecting. Grant was slightly conflicted at this point, and I took the hint. I told him I’d take it for him if he wanted to take me to the dressing room. He said he did, and then he got to the door and knocked.
+
+I’m grateful for your skill at hiding things from me. Grant was… uneasy about the door obviously, but it was well hidden. I learned from my mistakes. I still kept an eye on him, though. When I saw him grab a corner of the wall away from the other one, I figured he might be looking for something.
+
+Sure enough, as he knocked, I heard Grant’s voice from the dressing room come louder and angrier. He stopped mid-sentence, and looked like he was about to bolt from the room, but caught the door open before it could close completely. He grabbed hold of a light switch, and with a quick, jerky motion, he pulled it back and into the present.
+
+I spun around to see a hole in the wall just where the door would lead, and I slipped inside. My skin was fine, though, and I didn’t seem to have heard anything from underneath it. I lay there for a while, just sipping my drink, waiting for the urge to urinate. I’ve never been straight-up lost at something in my life, but I managed to get the nerve to look back, and everything was just normal.
+
+Then I felt something. I felt someone grab my arm. His hand was old and grey, and it felt coarse and bony. Fine, it was just a small, sharp pain in my arm. I jerked my arm back, but he didn’t seem to feel it at all. He started to panic, shouting about blood and collapsing, and I placed him down on the hard wood floor. His face was sunken, and his chest started to convulse. He struggled for breath, and I saw him start to shout again. He kept saying, “I’m sorry, I’m sorry,” but every time he started to gurgle, there was a sudden freedom felt in his throat, and he seemed to be holding something in his hands. I’d never before seen Grant reach for a scalpel.
+
+After a while, he was lying on the floor of the small, cramped room. I could hear him struggle for breath, and he was moving slowly, so slowly I could barely see him. I had the decency to pick him up just before he was thrown to the ground. My knife was held in good enough position to threaten him a bit, but I saw his hands start to go down again. In the weak moments, I even took to holding his neck like a bric-a-brac.
+
+His neck was like that of a fish, and the strong green liquid that oozed out of it was ice. Whatever was inside had begun to fissure, bright red, swirling in that swirling hallway. When I looked at that ice, it seemed myself and Ice Man were the only eyes that were able to see it.
+
+Then my knife-hand went cold. In a single movement, far quicker than I was willing it to be, my cut ran and tumbled down the side of my throat. I felt the ice turn to mush and fall back down where it had hit my bony neck.
+
+I could hear him thrashing on all sides. Frost was now complete. He was nothing but a ball of rictus, his eyes
+
+[12210 | 520.56] loss=0.09 avg=0.12
+[12220 | 553.02] loss=0.25 avg=0.13
+[12230 | 585.44] loss=0.11 avg=0.13
+[12240 | 617.88] loss=0.14 avg=0.13
+[12250 | 650.34] loss=0.15 avg=0.13
+[12260 | 682.72] loss=0.12 avg=0.13
+[12270 | 715.10] loss=0.13 avg=0.13
+[12280 | 747.42] loss=0.09 avg=0.13
+[12290 | 779.90] loss=0.05 avg=0.12
+[12300 | 812.38] loss=0.14 avg=0.12
+[12310 | 844.92] loss=0.08 avg=0.12
+[12320 | 877.47] loss=0.06 avg=0.12
+[12330 | 910.03] loss=0.12 avg=0.12
+[12340 | 942.55] loss=0.08 avg=0.12
+[12350 | 975.05] loss=0.06 avg=0.12
+[12360 | 1007.47] loss=0.08 avg=0.11
+[12370 | 1039.93] loss=0.07 avg=0.11
+[12380 | 1072.37] loss=0.11 avg=0.11
+[12390 | 1104.78] loss=0.20 avg=0.12
+[12400 | 1137.32] loss=0.11 avg=0.12
+======== SAMPLE 1 ========
+ attack.
+
+So far, the only statement that provides any useful context is the one provided by Mr. Skinner himself, in the incident itself, and in the aftermath, in his attempt to explain away his lapse into madness. He mentions a previous girlfriend, but from what we can determine, there was a time lag of almost a decade between her disappearance and her eventual murder.
+[STATEMENT OF STEPHEN SKINNER, ON BOTH DURING AND FOLLOWING THE INCIDENT.]
+Whitewater Gap is, as Mr. Skinner mentioned, a popular weekend getaway for geeks and codivers. It’s open-ended and tends toward the chaotic, knuckly sort, something to do with lying, overthinking, and overreacting. Well, almost everything.
+Back in 2007, I got a chance to try and make some friends in Ibiza, when I broke up with Rachel McAnally, and moved to Brighton. I’m twenty-six, and have been living with Rachel McAnally ever since. I usually spend two weeks there, living in her house, and two months in Brighton, but I only ever really spent anywhere for more than a year. I like to take what I learned there and apply it to my own situation. It worked, to be honest. Two years I spent climbing, and I’m so far removed from reality that I rarely see a day without some excuse to return to reality.
+
+I’d avoid all my usual caution if I was heading into the complex that afternoon, but it wasn’t a problem. I always used to do a lot of 'due diligence' for myself, checking websites to ensure I hadn’t taken anything that might be pirated, or contain any weirdness, and generally I didn’t find anything that seemed worth wasting my time on. Well, I did find something that might be pirated, though, and that might confuse you a bit: the Bulgarian Cyrillic alphabet.
+
+The photos I’ve been able to acquire have had to be pretty limited, as I got rid of most of them by water or light, and the few that have not had photos with enough detail to work it out have been blurry. The Cyrillic alphabet is not the official language of the Cyrillic alphabet, but most of the texts that have managed to shoot back up have seemed to use it, though some don’t. It can’t be the word “crocus”, though, that’s just absurd. It sounds more like the word “scourge”.
+
+Of course, that’s not why I’m here, you know. You see, there is a very specific sort of vampire that I deal with. One that’s stricter than most others due to its connection to the harvest moon, though its exact nature is hard to define. A harvest moon is not a normal moon; there’s only the phase when it reaches its height, and when it’s in that state it becomes completely dark, with only the faintest traces of its influence visible in the weather. Those few others that come closer to it during its time in the solar year are striking out against the backdrop of the lunar eclipse, making mysterious moonwalkers that can read minds, or feeding the nascent darkness with fear, or fear of darknesses that can’t quite get the strength to stand up, scratching at the edges of our protective covering. A harvest moon is a very bad sign indeed.
+
+But Vlad doesn’t get to do that, because he’s not the one that gets to sign these things. We all understand that this is a big job, this is a big life, and by the time he’s ready, there’s not much more he can do. The bodies he takes have a limit on what they can do, and even if he beats them senseless, at what point does that actually make him stronger?
+
+I think that’s actually one of the reasons I’ve always found him so interesting. Because, even though most of these strange impulses that feed into the vampire seem to have a logical explanation, sometimes they don’t. There was one moment, just a few months ago, that I actually thought he’d killed someone. I mean, I knew it was impossible.
+
+Vladimir Putin’s body was found in his Moscow flat, after he was allegedly caught smoking weed on company property. It wasn’t a corpse, exactly, or a heart, or anything with a heartbeat in it, but it was the one that gave me the strongest feelings of déja vu. Because while it might have been a violent death, it also happened to be the last one we’d ever seen of any kind.
+
+The investigators didn’t find much more about
+
+[12410 | 1206.75] loss=0.15 avg=0.12
+[12420 | 1239.36] loss=0.06 avg=0.11
+[12430 | 1271.95] loss=0.12 avg=0.12
+[12440 | 1304.49] loss=0.04 avg=0.11
+[12450 | 1337.04] loss=0.12 avg=0.11
+[12460 | 1369.45] loss=0.15 avg=0.11
+[12470 | 1401.90] loss=0.05 avg=0.11
+[12480 | 1434.38] loss=0.11 avg=0.11
+[12490 | 1466.76] loss=0.19 avg=0.11
+[12500 | 1499.16] loss=0.08 avg=0.11
+Saving checkpoint/run1/model-12500
+[12510 | 1540.15] loss=0.14 avg=0.11
+[12520 | 1572.70] loss=0.11 avg=0.11
+[12530 | 1605.29] loss=0.11 avg=0.11
+[12540 | 1637.84] loss=0.07 avg=0.11
+[12550 | 1670.31] loss=0.06 avg=0.11
+[12560 | 1702.73] loss=0.22 avg=0.11
+[12570 | 1735.20] loss=0.08 avg=0.11
+[12580 | 1767.75] loss=0.13 avg=0.11
+[12590 | 1800.19] loss=0.14 avg=0.11
+[12600 | 1832.60] loss=0.10 avg=0.11
+======== SAMPLE 1 ========
+. I didn’t say anything then. I don’t know how I suddenly must have 20 Pack lunches, but I don’t want to get him in trouble. Neither of us want that. I mean, I’m just full of goodness.
+
+So, he gets full of goodness and descends into madness. It doesn’t do much good, really. What were you hoping to achieve? Had he laid low while you were cooking? Did you need him to turn the other cheek? I don’t covet these answers, but I do believe if I’d asked Stan, he would have told me to forget it. To move on and enjoy the light, even if it does go so far as to destroy me.
+
+So, I suppose I’ve got to go with him. And hope that’s all the care I have to do towards him. But I can’t afford to just sit here like a spectator. Clearly he has his own life and well-being to lead, and I can’t afford to just listen to his stupid old regrets.
+
+I could try to talk to him, find a therapist, or find a friend to share my troubles with. But I’m loathe to admit it, I: to have seen such a pitiful end to a happily ever after, to see such a glow of hope wiped away in an instant.
+
+It’s hard to express how much thisache of mine has upset me. I’ve tried to say it’s a symptom of his being - sick, but I can’t even use his medical training to make the point.
+
+In his turn, Andrew cackles. Yes, he continues, with a quiet that seems almost malicious. “Gerry,” he says, “you’re really pushing it, don’t you?” I say that I am, and he laughs again. “Sorry,” he says, “I didn’t know you were here.” I leave.
+
+I don’t wake up the next day. I manage to largely ignore the rest of it, myself. It’s been a week and he’s made no attempt to contact me. He still sends me vague rumours about what he’s going to do. So far.
+
+I might consider trying to get some rest. A peaceful slumber wouldn’t hurt. And I might consider going to bed.
+
+I knew it was going to be a long time before I got a chance to actually use the flat. I’ve been spending a lot of time just… languishing in it, so yeah, I might be keeping myself occupied while I’m down there, giving myself some time to… well, settle down. Get some of that 'extra fresh air' back.
+
+I haven’t been able to contact Greg. Or Jana. Or any of the other residents of Wolfenhorst. Apparently, they all decided to evacuate the building after the explosion, and I’m the only one left. Which is… which is… which is good news for me, actually. Bad news is that it could be weeks, if not months, before I get a chance to actually use the place.
+
+I’m in terrible shape physically. I can’t shave, and my beard has started to grow back. It’s… it’s fine, though. I have… I’m not completely healed yet. I haven’t been taking showers or brushing my teeth for months. And I have a fever. Not a fever of the sort you get when standing water for twenty minutes takes you by surprise. It’s… been getting worse and worse.
+
+I know… it’s just coincidence, of course, but… I know the sort of things that happen when you get struck by lightning. There’s… there’s a certain numbness that you can’t quite describe to your friends, or even your wife, and… then they’re gone. There’s nothing they can do. So you’ve got to play, and wait.
+
+It’s… late. I have to go to bed.
+
+I don’t… What?
+
+[DOOR OPENS]
+MARTIN
+Sorry?
+
+MARTIN (STATEMENT)
+It’s been a long time since I’ve seen the likes of Gertrude. I can’t, I can’t picture her –
+
+[DOOR CLOSES]
+Oh, come on… Everyone else can see her. I mean, most of them, anyway. The sort of people she killed, if
+
+[12610 | 1901.38] loss=0.09 avg=0.11
+[12620 | 1933.90] loss=0.08 avg=0.11
+[12630 | 1966.45] loss=0.10 avg=0.11
+[12640 | 1998.89] loss=0.11 avg=0.11
+[12650 | 2031.41] loss=0.08 avg=0.11
+[12660 | 2063.91] loss=0.09 avg=0.11
+[12670 | 2096.39] loss=0.16 avg=0.11
+[12680 | 2128.86] loss=0.12 avg=0.11
+[12690 | 2161.41] loss=0.09 avg=0.11
+[12700 | 2193.89] loss=0.15 avg=0.11
+[12710 | 2226.30] loss=0.10 avg=0.11
+[12720 | 2258.69] loss=0.07 avg=0.11
+[12730 | 2291.19] loss=0.10 avg=0.11
+[12740 | 2323.65] loss=0.12 avg=0.11
+[12750 | 2356.11] loss=0.07 avg=0.11
+[12760 | 2388.54] loss=0.12 avg=0.11
+[12770 | 2420.90] loss=0.06 avg=0.11
+[12780 | 2453.40] loss=0.12 avg=0.11
+[12790 | 2485.85] loss=0.04 avg=0.11
+[12800 | 2518.29] loss=0.24 avg=0.11
+======== SAMPLE 1 ========
+ medically, a - a realist, would be inclined to see everything as a test. I have a - (sharp breath) I did my - some of my exercises for the [Group] sober now, to see what happened - what their response was.
+
+ARCHIVIST
+E-Even you’ve done some - stuff with - () people?
+
+HELEN
+Yes, but- then they respond differently, sometimes they freak out, and that’s- (pain) I’m doing okay.
+
+ARCHIVIST
+That’s good.
+
+HELEN
+It’snt though I really see myself as ‘proper’ anymore. I’m more of ‘it’ now. I don’t feel like I can relate to animals - I’m a - I’m a rancher, Jon, you see animals all the time. They’re just animals. Plants need sunlight! If there’s one thing I’ve learned, it’s that an animal without affection, without natural predators, it’s - very difficult to live.
+
+ARCHIVIST
+I’m not sure I —
+
+HELEN
+(immediately) Anger is good for you, Jon. Carving is - Carving’s good for you. If you’re just starting out, it can be hard. You know, give everyone a fair shot. But, if you’re anything like me, you’ll do okay.
+
+ARCHIVIST
+(seconds of deep reflection) What, are you just going to talk about it?
+
+HELEN
+(another second of quiet) Yeah. I guess so.
+
+ARCHIVIST
+(another second) This is *not* about Jon.
+
+HELEN
+What? What, are you just going to start talking about it?
+
+ARCHIVIST
+I - wh, what?
+
+HELEN
+Let’s not. It’s not even my fault. I didn’t want it to happen, what with the candles and the - how did you know I’d started it?
+
+ARCHIVIST
+I - didn’t know.
+
+HELEN
+No, it’s not your fault. Me, Carla, and Basira are going to help you take care of it. I’m sure you want it to burn, though.
+
+ARCHIVIST
+(impatient) We’ve got to stop it.
+
+HELEN
+Stop what?
+
+ARCHIVIST
+I - (exhale) I’ve been listening to the tapes.
+
+HELEN
+Yes.
+
+ARCHIVIST
+I - guess so.
+
+[HELEN BEGINS TO READ.]
+HELEN
+Feeling slightly better, at least.
+
+ARCHIVIST
+Is everything here safe?
+
+HELEN
+Yes. There’s no sign of the ritual.
+
+ARCHIVIST
+(warning) Really? -
+
+HELEN
+That’s the thing about an - an animal. You can’t help but… It’s not very wise, sometimes.
+
+ARCHIVIST
+Jon?
+
+HELEN
+Feels different when you’ve got something to actually fear.
+
+ARCHIVIST
+I suppose so.
+
+HELEN
+So what now?
+
+ARCHIVIST
+I told you I’m coming, so what do you do?
+
+HELEN
+Okay, now what? We need to figure out transport.
+
+ARCHIVIST
+Oh. Fine. Take it out and prepare to be Bakked when you’re ready.
+
+HELEN
+Sure.
+
+[SOUNDS OF A PUNCH LANDING, CLINKING METAL AND RUNNING]
+[THREE GUNS RING OUT, TWO PUNCHES RING OUT, AND A COUPLE OF FOOTSTEPS RING OUT A SECONDS LATER]
+[A COUPLE OF FOOTSTEPS RING OUT AGAIN, AND A GUNSHOT]
+[THE MUSIC IS A BIT MORE BASIRAINED, MORE RAGGED OUT IN THE BACKGROUND]
+
+[A SIDE OF A METAL CREAKS]
+
+[THREE GUNSHOTS RING OUT, TWO MOBILE BEHINDING]
+
+Carter, where are you?
+
+BASIRA
+Down here.
+
+ARCHIVIST
+I - you didn’t say anything.
+
+BASIRA
+Here’s the roof.
+
+ARCHIVIST
+Uh
+
+[12810 | 2586.88] loss=0.06 avg=0.11
+[12820 | 2619.38] loss=0.04 avg=0.11
+[12830 | 2651.80] loss=0.13 avg=0.11
+[12840 | 2684.22] loss=0.12 avg=0.11
+[12850 | 2716.64] loss=0.06 avg=0.11
+[12860 | 2749.14] loss=0.15 avg=0.11
+[12870 | 2781.60] loss=0.06 avg=0.11
+[12880 | 2814.09] loss=0.09 avg=0.11
+[12890 | 2846.65] loss=0.15 avg=0.11
+[12900 | 2879.12] loss=0.14 avg=0.11
+[12910 | 2911.65] loss=0.07 avg=0.11
+[12920 | 2944.15] loss=0.09 avg=0.11
+[12930 | 2976.68] loss=0.09 avg=0.11
+[12940 | 3009.20] loss=0.10 avg=0.11
+[12950 | 3041.69] loss=0.06 avg=0.11
+[12960 | 3074.22] loss=0.13 avg=0.11
+[12970 | 3106.76] loss=0.11 avg=0.11
+[12980 | 3139.17] loss=0.13 avg=0.11
+[12990 | 3171.66] loss=0.12 avg=0.11
+[13000 | 3204.04] loss=0.14 avg=0.11
+Saving checkpoint/run1/model-13000
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+======== SAMPLE 1 ========
+ minutes of her being there, it began to drift through the channels.
+
+It was slow and deliberate, like a… like a high-prestige art object. And as it went Jerel’s way, it moved with such a smooth, deliberate pulse that it seemed like she was watching me watch. I couldn’t see anything out of the ordinary, but it just looked like hand-eye coordination, and I started to nod off, the first time it had happened while we were students.
+
+It was weird. I felt a… tugging sensation from behind me, and looking up, I saw Megan staring at me, making eye contact with me as we left the room. I tried to nod, tell her to stay out of my way, but she just made a sudden sudden big bow, and her eyes were just so… wrong.
+
+Jeremiah slammed the door shut, and we all just stood there, in what felt like silence for the longest time, trying not to freak out.
+
+Had she… taken our shoes?
+
+He looked at me for a long, long moment, then nodded. “Sure,” he said, “whatever you’re doing, don’t freak out. I’ll be out of your way as well.”
+
+I shut my eyes, and tried not to freak out.
+
+It was the strangest thing to watch. I’d been studying normally for the Enhanced Human Performance Test, but for some reason, the man who had marked me for death had seemed to make me feel weird. Like he was judging my reaction, or telling me something.
+
+I tried to make sense of what he was saying, but it was hard. His accent was strange, and he seemed to be smoking, which wasn’t normal for him, and I didn’t really notice.
+
+Eventually, he stopped mid-sentence to look at me. I followed his gaze but it shifted to a look of concern.
+
+He started to say something about respecting people, about duty, about how this job was important to him. I could feel myself slipping back into fear, and he reached into his jacket, which he always kept tucked under his shirt, and took out a hard-sided stone tablet.
+
+He spoke very fast, which made me hesitant to listen, but he always kept his voice down. I’d felt so alive by his words, but now I felt completely numb.
+
+He shrugged, and pushed the glass down, saying he’d do it when he got the chance.
+
+I didn’t dare to look away.
+
+Then all at once, the fear vanished. I could feel every nerve in my body being pulled towards that stupid glass, towards the imminent threat of murder.
+
+He turned away, and vanished into the darkness behind him.
+
+From behind me I heard the strangest thing. It was him saying something else, softly, but with a terrifying intensity to his voice that told me I had to kill him.
+
+I started to say something, to call out, but he didn’t stop, just following me with a knowing look.
+
+Soon I was completely out of sight, and the only sound was the terrifying shriek of my phone as he charged at me.
+
+He reached into his jacket, which I assume contained his passport, and pulled out a roll of film, apparently tracing it across the palm of his hand, until it reached the bottom. He put it back on the chair, then walked over to the door, and came back inside.
+
+I didn’t even get a chance to flash the terrifying images back at him, because as he lifted the film to expose the driver, he grip on it and pulled it out of the grip.
+
+He took a long, painful gasp of air, and looked at me. Then down at the camera, and finally at me.
+
+The terrible truth is that I was scared.
+
+As he began to drop it, I desperately tried to urge him back, but his arm was so slick with sweat he barely had time to register it.
+
+I asked him what he wanted, what he needed, but he just shook his head, and gestured for me to go away.
+
+The terrible truth is that I wanted to stop him.
+
+But I couldn’t even reach his wrist, because it was too close.
+
+I screamed, to no avail. As he reached for my phone, I gripped my toolbelt, took off the batteries, and quietly pushed the scraper into the old woman’s back.
+
+Just then I heard something from the kitchen. It was a low, clean sound. I saw a shadow standing at the other end of the wooden floor. A shadow that traveled along the rough, gray stone of the stage.
+
+I don
+
+[13010 | 3280.97] loss=0.14 avg=0.11
+[13020 | 3313.38] loss=0.11 avg=0.11
+[13030 | 3345.80] loss=0.08 avg=0.11
+[13040 | 3378.24] loss=0.10 avg=0.11
+[13050 | 3410.60] loss=0.08 avg=0.11
+[13060 | 3443.00] loss=0.09 avg=0.11
+[13070 | 3475.45] loss=0.11 avg=0.11
+[13080 | 3507.79] loss=0.06 avg=0.11
+[13090 | 3540.21] loss=0.13 avg=0.11
+[13100 | 3572.69] loss=0.10 avg=0.11
+[13110 | 3605.20] loss=0.10 avg=0.11
+[13120 | 3637.64] loss=0.08 avg=0.11
+[13130 | 3670.16] loss=0.17 avg=0.11
+[13140 | 3702.76] loss=0.05 avg=0.11
+[13150 | 3735.27] loss=0.08 avg=0.11
+[13160 | 3767.80] loss=0.07 avg=0.11
+[13170 | 3800.31] loss=0.05 avg=0.10
+[13180 | 3832.85] loss=0.08 avg=0.10
+[13190 | 3865.48] loss=0.09 avg=0.10
+[13200 | 3898.08] loss=0.10 avg=0.10
+======== SAMPLE 1 ========
+ and my fear deepened, for in he drew the outlines of a man who would bound him with thread. To speak plainly, I was terrified at the prospect of being selected as the victim of his scowl, but my only other choice was to run or freeze, and I could think of no other way to escape his scrutiny.
+I waited until he was satisfied with his latest gambit and fled, but not before offering my hand to any fool who might still be tempted to risk it. The dice were hers, and I smiled as I played them, too eager to win, even if I was to be trapped forever in this unending line of defense.
+And here, at last, I saw the end of it. Phil’s eyes met mine, and I knew, as I had so often suspected, that he was simply afraid of being picked. A cowardice so acute that I could never truly know where he found himself, but a stubbornness so great that I could never fully bring myself to abandon him. In his eyes, I saw myself selected as one of his chosen ones. Chosen because I would never stop him, and, if I lived up to his demands, I had no other choice but to continue my resistance.
+In the years that followed, I tried to convince myself that I was simply chosen because I would be easier to control, whereas in reality I was eager to kill to end the suffering I was now certain I was causing. Only in those rare encounters with those inhuman figures whose will I could not doubt, and whose suffering I could not begin to understand, did I begin to realize the futility of my situation.
+Eventually, I was forced to abandon my plan, and retreat to the lodestone I kept close to. I took what I could of what I could of the old gnostic temple, and hurled it into the lake, the last remaining object of the hopeless faith. I waited there, for a week, but he returned no-one except his own body.
+I wasn’t ready to celebrate, though, and I think in my heart he was waiting for some grand cosmic shock, to shake me free of my helplessness and despair. And when that didn’t happen, he caved and let me stay. I clung to him, weighed him down, and finally made the decision to abandon my project. To abandon my Himalayan dream.
+Statement ends.
+[CLICK]
+The Tibetan Book of the Dead was published in Tibet by Longjing Publishing House in 1927, and stood in stark contrast to the Buddhist texts that dominated the literature during the Yuan dynasty. From what I can tell, there are few details in the account that match the historical account of the extinction of the Buddhino-Tibetan boundary, but a number of artifacts associated with the construction of tombs at the site have been found within the walls of the Forbidden City, most notably a piece of an ivory staff the size of a fist, and a helmet similar to that of the Sumerian god Demeter.
+There is also the oddest detail: the words “Ch'i Hung-fu-li-o-gun”, 大切輪の輪神 �学洞夫協物, or simply 夜切輪神利贤断城, 天具念隙�噷陳雅噷陳雅口, 大洞名学雅噷雅口. This may be meaningless gibbering, but I’m willing to pay a visit to find out more.
+End recording.
+ARCHIVIST
+Statement of Nathaniel Beale, regarding his experiences during the refurbishment of the Reform Club, Whitechapel Hill. Original statement given February 23rd, 1999. Audio recording by Jonathan Sims, Head Archivist of the Magnus Institute, London.
+Statement begins.
+ARCHIVIST (STATEMENT)
+Let’s get one thing straight right now. I don’t want to sound cocky or pose as a guardian angel. I know, it’s not technically a guardian angel, but you’re usually more suited to protect secrets than it is confronting the truth of the supernatural, so I’m confident you’ll forgive my cynicism.
+Anyway, I’m being very careful with this. If anyone else ever gets it, I will fight tooth and nail against any chance to recover. Especially since I now know that death doesn’t really have a saveic quality to it, and I think it will be just as effective at removing the corruption as it is at rendering someone helpless.
+Be careful with me, Katherine. Be careful.
+ARCHIVIST
+Statement ends.
+I’m sure I don’t need to explain how dis
+
+[13210 | 3967.17] loss=0.09 avg=0.10
+[13220 | 3999.66] loss=0.07 avg=0.10
+[13230 | 4032.26] loss=0.10 avg=0.10
+[13240 | 4064.85] loss=0.12 avg=0.10
+[13250 | 4097.43] loss=0.07 avg=0.10
+[13260 | 4130.02] loss=0.08 avg=0.10
+[13270 | 4162.64] loss=0.09 avg=0.10
+[13280 | 4195.30] loss=0.07 avg=0.10
+[13290 | 4227.93] loss=0.10 avg=0.10
+[13300 | 4260.58] loss=0.18 avg=0.10
+[13310 | 4293.20] loss=0.12 avg=0.10
+[13320 | 4325.77] loss=0.04 avg=0.10
+[13330 | 4358.29] loss=0.13 avg=0.10
+[13340 | 4390.77] loss=0.08 avg=0.10
+[13350 | 4423.23] loss=0.07 avg=0.10
+[13360 | 4455.61] loss=0.06 avg=0.10
+[13370 | 4488.16] loss=0.06 avg=0.10
+[13380 | 4520.72] loss=0.16 avg=0.10
+[13390 | 4553.33] loss=0.15 avg=0.10
+[13400 | 4585.84] loss=0.06 avg=0.10
+======== SAMPLE 1 ========
+ I started to get to know a bit more about their history and purpose. They were apparently formed from a combination of an Indian oceanic ritual and an ancient Greek pool.
+I initially assumed the Romans had simply used them to store prisoners, but shortly afterwards it turned out they were still potent enough to keep the prison from being attacked. I also presumed the attack would be catastrophic - that sort of disaster was simply how it was phrased.
+Instead, it was merely a ripple, a small explosion of grief and fear that resulted in the drowning of the prison by the sea, a few survivors making their way to shore. It was at this point, and after much research, that we were able to build the foundation stone of the Wellspring Point Lighthouse. It was a bold move, and one that required considerable skill to resist.
+We were able to save several lives, and Benoît escaped with only minor injuries. The chemistry professor was left to fend for himself in the resulting chaos.
+Of these, the only two who escaped with anything decent.
+One must never be left in a room alone, or else it becomes known you’re lying about something. I’m sure you can imagine my horror when I saw Albrecht’s family descending into chaos on-site.
+I had no idea what was going on, and no interest in pursuing this further, when, instead, he leapt to his feet and began to give me a thorough rundown of the house. His hands shook badly at this information, but he appeared to be in excellent spirits, so I sipped my wine and took few, private nibbles from the glass.
+It was about two in the morning when I heard the changes in the water level. I had no idea where we were, and was about to check the windows again, when I realised I could hear Benoît. He was howling, a story to tell you, he was a wonderful guy, even better than I was, but now he was lost in a sea of screaming, and I saw why that window was open.
+As I looked at the other windows, I saw something that broke my already-simmering sea of nerves: all eyes turned to me at once.
+They all stared at the same spot on the floor, surrounded by a mist of purple, purple, purple. It was like pupils and cheeks, only it was surrounded by a solid wall of transparent material, and if you looked at it, you could almost make out the faces of the people you passed, bobbing and prodding from that wall. They called to me, eager to see if I would help, and I did, just long enough to find Benoît and come back to him, following his example to the letter.
+I followed Benoît until he found himself in front of a storefront in Archway. He was trying to ask a question of the man who sat upon his bed, a man who identified himself as Philippe Star, but he was too weak to make out a question. Asking the man what his name was had become clear, and even if he had any answer, it was spoken in a tone of such profound trust that it felt as though all were speaking words that were not in my own head.
+Benoît was terrified and confused, and began to retrace his steps, following the path of the street he had been walking for so long, but was walking instead on flooded streets and crumbling foundations, until he reached a dead end just South of Pike Street. He turned away, and I could see in his eyes traces of the man he had seen emerging from the darkness that cloaked this once-promising development. He turned back, and headed South.
+I had no interest in pursuing him further, but Price decided after so many years that I was not going to take any chances. I urged him back for a few more minutes, but he refused, and urged me once again to follow him. I regretted that my excitement at finally seeing another American was short-lived; I was in such a state of mind at the time that I at last accepted his company and followed him.
+We tramped down a few blocks to the small house 103, and there I found a fireplace, a large oak desk, and a door locked from the inside. It was sealed from the inside by thick wooden shavings, and shone with a warm brown light. I was about to make my excuses and leave, but I caught another wave of demure fear, and turned on my heel.
+We entered the house through the front door and there was a thick dingy smell that stopped me in my tracks. The man requested we sit on the sofa, and I did, so I got the brown from inside the drawer and placed it down on the table. The fear deepened within me and I began to realize that this would surely be our only opportunity to find Benoît, and if we were ever going to find him
+
+[13410 | 4655.32] loss=0.10 avg=0.10
+[13420 | 4687.93] loss=0.09 avg=0.10
+[13430 | 4720.41] loss=0.10 avg=0.10
+[13440 | 4752.78] loss=0.11 avg=0.10
+[13450 | 4785.29] loss=0.06 avg=0.10
+[13460 | 4817.72] loss=0.20 avg=0.10
+[13470 | 4850.05] loss=0.09 avg=0.10
+[13480 | 4882.45] loss=0.05 avg=0.10
+[13490 | 4914.94] loss=0.09 avg=0.10
+[13500 | 4947.37] loss=0.10 avg=0.10
+Saving checkpoint/run1/model-13500
+[13510 | 4987.26] loss=0.10 avg=0.10
+[13520 | 5019.68] loss=0.13 avg=0.10
+[13530 | 5052.13] loss=0.07 avg=0.10
+[13540 | 5084.62] loss=0.16 avg=0.10
+[13550 | 5117.11] loss=0.09 avg=0.10
+[13560 | 5149.68] loss=0.05 avg=0.10
+[13570 | 5182.20] loss=0.15 avg=0.10
+[13580 | 5214.78] loss=0.07 avg=0.10
+[13590 | 5247.35] loss=0.09 avg=0.10
+[13600 | 5279.94] loss=0.08 avg=0.10
+======== SAMPLE 1 ========
+us, I’m sure I don’t need your help.
+ARCHIVIST
+
+Well, thank you for that, if you’re still with us after this.
+HELEN
+
+Well, no. If the others hear this, it wouldn’t help with the tension.
+ARCHIVIST
+
+Tightening up the fire isn’t going to help with anything.
+HELEN
+
+It’s because you’re doing it. This time, instead of using it to find a way to hurt me, you’re using it to find a way to hurt me. Because I have finally decided that the only way I’m ever going to win is if I become this horrible, impossible being I know I must be creating.
+ARCHIVIST
+
+What?
+HELEN
+
+I don’t know if you’re ready for it yet.
+ARCHIVIST
+
+…
+
+Even if you were, I don’t want to be too harsh on your head.
+
+HELEN
+
+If you’re still panicking over everything, you are not going to be. This is a huge victory for me, for Elias, and for all of us. We’ll see.
+
+…
+
+I’m going to put on some music. So, um, you’ll probably want to keep an eye on the Archivist while I do it.
+[DOOR OPENS]
+ARCHIVIST
+
+Well, I have an audience and a subject. A man named Daniel Rawlings.
+HELEN
+
+Yes. And, he’s been recording them.
+ARCHIVIST
+
+Archivist. Oh, you do have those?
+HELEN
+
+Yes. Keep watching.
+[DOOR CLOSES]
+ARCHIVIST
+
+Well, that was… that was certainly useful. How about you have a seat?
+HELEN
+
+I’m still getting used to my prosthetic.
+ARCHIVIST
+
+Oh, er, no, I’m, I’m looking after you.
+HELEN
+
+It’s fine. Anything you’re missing?
+ARCHIVIST
+
+I’m, I’m trying to think. I have the final chapter of Leitner’s Misery staring at me right now. Do you need me to read it?
+HELEN
+
+No. No, I’m, I’m just… I’m stuck.
+ARCHIVIST
+
+Leitner was obviously very happy to have a black market sink-hole opened up into his compound. It didn’t even stop the rain from ruining it.
+HELEN
+
+That’s quite enough, I think. Except, um, not quite.
+[DOOR OPENS]
+[SOUND OF HARD COAT and umbrella touching]
+HELEN
+
+Grab a weapon.
+ARCHIVIST
+
+We’ll get one.
+HELEN
+
+Ooh, pretty scary. If only I could have known what sort of dust storm was coming…
+ARCHIVIST
+
+Whatever it is, get out of my room.
+HELEN
+
+Of course.
+[MICHAEL LAUGHS]
+ARCHIVIST
+
+Michael…
+
+Look, we, we’re on the same side, so there’s a lot to consider, but I will help you leave.
+HELEN
+
+If you’re desperate, I should suggest you go back to your parents.
+ARCHIVIST
+
+And why are you doing it?
+HELEN
+
+To show them what I’ve done.
+ARCHIVIST
+
+Is it… are you asking them to hand me a six pack, or have you got another surprise waiting for them?
+HELEN
+
+It’s their house, they’re in no state to resist.
+ARCHIVIST
+
+Then they expect you to take out the trash.
+HELEN
+
+And the worst thing, the actual worst thing, is that they don’t know what’s in there. They’re expecting you to find the… the real, the bad stuff, and they’re keeping it far away from other people and animals.
+ARCHIVIST
+
+And you think you can save the world?
+HELEN
+
+I would say the world is just precious trash. It’s better than nothing, but it does feel nice to have.
+ARCHIVIST
+
+Last thoughts: “Bring out the baby”
+HELEN
+
+You know, I’m afraid this is
+
+[13610 | 5349.11] loss=0.05 avg=0.10
+[13620 | 5381.69] loss=0.15 avg=0.10
+[13630 | 5414.24] loss=0.12 avg=0.10
+[13640 | 5446.75] loss=0.07 avg=0.10
+[13650 | 5479.22] loss=0.06 avg=0.10
+[13660 | 5511.81] loss=0.08 avg=0.10
+[13670 | 5544.41] loss=0.14 avg=0.10
+[13680 | 5576.96] loss=0.12 avg=0.10
+[13690 | 5609.42] loss=0.08 avg=0.10
+[13700 | 5641.91] loss=0.10 avg=0.10
+[13710 | 5674.32] loss=0.07 avg=0.10
+[13720 | 5706.80] loss=0.10 avg=0.10
+[13730 | 5739.26] loss=0.07 avg=0.10
+[13740 | 5771.79] loss=0.07 avg=0.10
+[13750 | 5804.34] loss=0.15 avg=0.10
+[13760 | 5836.88] loss=0.07 avg=0.10
+[13770 | 5869.45] loss=0.13 avg=0.10
+[13780 | 5901.94] loss=0.09 avg=0.10
+[13790 | 5934.44] loss=0.09 avg=0.10
+[13800 | 5967.00] loss=0.16 avg=0.10
+======== SAMPLE 1 ========
+LASIRA
+I really don’t know how it all works -
+
+ARCHIVIST
+Listen, it’s -
+
+MELANIE
+(overlapping) - She’s out.
+
+[ARCHIVIST CONTINUES TO STRUGGLE]
+ARCHIVIST
+- and then -
+
+[MELANIE PUSHES OUT OF HER SEAT]
+Who the hell are you people? Okay, don’t - Okay, don’t pretend to know anything about this, don’t - Okay, don’t - Hold on.
+
+Okay, it’s - Okay, it’s really bad.
+
+MELANIE
+Did you look for her?
+
+ARCHIVIST
+Uh, no - John, John Karlovich, I - I - didn’t find her.
+
+MELANIE
+You didn’t though, did you?
+
+ARCHIVIST
+She left.
+
+MELANIE
+Oh. Oh, come on. You’re her boss now, so you know I shouldn’t really be here.
+
+ARCHIVIST
+I mean, you’re not really in your fucking office.
+
+MELANIE
+I’ll tell you that one through. I’ll keep my eyes peeled.
+
+ARCHIVIST
+(overlapping) Well, I mean - Well, you’re not exactly here for that, you know. She takes her office a long way away from the Institute. Away from the building.
+
+MELANIE
+She actually did ask me to be on the call.
+
+ARCHIVIST
+(sigh) Yes, o-o-of course. I-I have... I’ve got a lot of work to do.
+
+MELANIE
+Well thanks.
+
+ARCHIVIST
+You work in the Archives, then?
+
+MELANIE
+Yes, actually one of the buildings over there is something -
+
+ARCHIVIST
+What?
+
+MELANIE
+Oh - the archive.
+
+ARCHIVIST
+Oh - right.
+
+[CLICK]
+
+
+[CLICK]
+[FAINT SOUNDS OF FOOTSTEPS APPROACHING]
+UNKNOWN
+Oh! Hello?
+
+[SEVERAL LONG ‘HMM’S, THEN A SATISFIED ‘HM!’ FOLLOWED BY CHUCKLING.]
+MARTIN
+Um, excuse me sir, sorry to bother you.
+
+UNKNOWN
+Oh, er… no, okay, good to see you.
+
+MARTIN
+Sorry.
+
+[THE DOOR OPENS, THE ARCHIVIST EXHALES EXHALING.]
+MARTIN (CONT’D)
+Sorry again that the Archivist seems to be taking a very long time with us.
+
+UNKNOWN
+(rustling) What happened?
+
+MARTIN
+I… don’t know. Eat your lunch.
+
+UNKNOWN
+(overlapping, mumbling) Oh, just give me a half hour.
+
+MARTIN
+(overlapping, mumbling) Oh, they’re back.
+
+[THERE’S A SOUND LIKE A BLADE BEING DRAWN AS THE ARCHIVIST LETS OUT A LONG SIGH.]
+MARTIN (CONT’D)
+Do you know when Elias Bouchard is going to show up?
+
+[UNKNOWN TIMES A CROWD OF EXHALING.]
+UNKNOWN
+Oh come now, don’t be like that. Let’s start over.
+
+BRIAN
+You were trying to lure him back.
+
+UNKNOWN
+Oh, yeah. I see.
+
+BRIAN
+And I wonder where I can get a copy of his mind.
+
+UNKNOWN
+Hmm.
+
+[PAUSE.]
+BRIAN
+And a hell of a lot more of your own skin after you’ve finally done your ritual.
+
+[MARTIN TAKES A DEEP BREATH.]
+BRIAN (CONT’D)
+How embarrassing for you.
+
+MARTIN
+How embarrassing for me.
+
+[UNKNOWN TIMES A SHAKY BREATH.]
+BRIAN
+How did you do it?
+
+[TIM TAKES A DEEP BREATH.]
+TIM
+You. Did. It.
+
+MARTIN
+You’ve finally got your ritual off the ground.
+
+TIM
+Ah. Well. (inhale) It’s, uh.. it
+
+[13810 | 6036.03] loss=0.09 avg=0.10
+[13820 | 6068.57] loss=0.08 avg=0.10
+[13830 | 6101.07] loss=0.12 avg=0.10
+[13840 | 6133.56] loss=0.16 avg=0.10
+[13850 | 6166.02] loss=0.12 avg=0.10
+[13860 | 6198.50] loss=0.08 avg=0.10
+[13870 | 6230.96] loss=0.08 avg=0.10
+[13880 | 6263.49] loss=0.08 avg=0.10
+[13890 | 6296.02] loss=0.08 avg=0.10
+[13900 | 6328.51] loss=0.09 avg=0.10
+[13910 | 6360.94] loss=0.13 avg=0.10
+[13920 | 6393.35] loss=0.09 avg=0.10
+[13930 | 6425.91] loss=0.08 avg=0.10
+[13940 | 6458.40] loss=0.08 avg=0.10
+[13950 | 6490.95] loss=0.15 avg=0.10
+[13960 | 6523.49] loss=0.09 avg=0.10
+[13970 | 6556.00] loss=0.07 avg=0.10
+[13980 | 6588.53] loss=0.11 avg=0.10
+[13990 | 6621.03] loss=0.13 avg=0.10
+[14000 | 6653.45] loss=0.08 avg=0.10
+Saving checkpoint/run1/model-14000
+======== SAMPLE 1 ========
+ as. It was very strange. I felt like it might have been from one of the other labs that had gone this weekend. I mean, this place has always had a bit of a reputation for science being a bit dry, but this… for science to really take it to the next level, you need to believe in it. This was clearly beyond what that.
+
+At first I just thought he was having a bit of a personal falling out, but then I realised that his work had clearly breached NCT guidelines, and I got a full lecture on the nuts and bolts of SCP/ANSI security protocols. Even then, I never felt unsafe myself. I would have alerted the others if we had to encounter something truly freakish. But we never had any equipment or staff that were trained in anomalous subjects, so we were never likely to encounter anything truly mind-blowing.
+
+What really scared me, though, was what Grant would do when we reached Level 3. He’d lie down, destroy his screen, and start playing an old video clip of himself laughing maniacally as he rambled on, slowly eating his computer. Then, without warning, he’d start screaming again, this time in a fit of rage, and stomp down, stomping and stomping and stomping until his head slammed into the wall, shining silver everywhere. Then it was quiet, and for a second I was sure we were going to encounter another security issue. But instead, he just sat there, comfortable in his own skin as he rummaged in the corner of the tiny metal box.
+
+I gradually realized that the reason I got the job working in the AT&T building was because I’d been toying with the idea of trying to break into the system. It just so happened that the security systems generally give you two choices: They can ping you directly, or they can send you an SMS with the subject still hidden in plain sight. I chose the latter, and it was 2007, so I was used to having my back covered in concrete. So I decided not to just show you what I know, but to actually go down there and see for myself. I walked for a while, got my coat ready, and then, I turned in to find the back door had been smashed through. It was one of the newer models, maybe ten or fifteen years old, and the lockers were all that remained of the old school. But it was unlocked.
+
+I knew my old guard would have been there, but he didn’t deserve to be sacked like that. It was clear something was wrong with Grant, and I started to feel very uneasy. Was he coming back someday? He didn’t seem to know what was going on. Was I going to be safe inside the Institute, or was I just going to be safe in my bed? There was a nagging apprehension in my mind, something that after three hours I just couldn’t name. But I didn’t care. I just waited.
+
+At some point Ikai came to check on me. Apparently there’d been some problems with the door, and I was being followed. I tried to tell him to go away, but the anger seemed to wash over me, and I shouted for him to go back, but he just stood there, confidently, like he hadn’t noticed that a while ago. The freshness of the air in the small office made me feel well rested, even though there was still that nagging apprehension in my mind.
+
+I turned in to find Grant stood in the corner of the small doorway, looking at me with a bored expression and making some final checks on the door. It was unlocked, but I was still sure I could find something to be alarmed about. I saw the thin, sharp knife in his hand and I suddenly came to the decision that I was not going to just stand there and wait for this. I walked over, planted myself across from him, and grabbed him by the collar of his shirt.
+
+This time his eyes weren’t locked on me, but rather than try toyp I think he hoped I would try to escape. He grabbed my right arm, just hard enough that I could hear the pins fly in the air and he pulled me to my feet with a y’know? Like a wild animal. I felt his hand close around my throat and he whispered to me in the voice of the devil, saying, “Tear them both out,” and then he took my arm and led me back under the stairs, out into the cold night air of London.
+
+I ran, of course. I got out of there, and I never saw Grant again. But a few weeks later, I found myself standing before one of the empty windows of one of the branch offices of One Pecks. The name on the plaque next to me was scratched into my forehead: it had been stolen
+
+[14010 | 6729.87] loss=0.12 avg=0.10
+[14020 | 6762.20] loss=0.14 avg=0.10
+[14030 | 6794.66] loss=0.09 avg=0.10
+[14040 | 6827.08] loss=0.05 avg=0.10
+[14050 | 6859.50] loss=0.07 avg=0.10
+[14060 | 6891.94] loss=0.11 avg=0.10
+[14070 | 6924.34] loss=0.09 avg=0.10
+[14080 | 6956.83] loss=0.11 avg=0.10
+[14090 | 6989.32] loss=0.12 avg=0.10
+[14100 | 7021.70] loss=0.11 avg=0.10
+[14110 | 7054.15] loss=0.12 avg=0.10
+[14120 | 7086.60] loss=0.12 avg=0.10
+[14130 | 7118.99] loss=0.09 avg=0.10
+[14140 | 7151.35] loss=0.10 avg=0.10
+[14150 | 7183.75] loss=0.06 avg=0.10
+[14160 | 7216.16] loss=0.06 avg=0.10
+[14170 | 7248.64] loss=0.12 avg=0.10
+[14180 | 7281.15] loss=0.11 avg=0.10
+[14190 | 7313.67] loss=0.08 avg=0.10
+[14200 | 7346.16] loss=0.11 avg=0.10
+======== SAMPLE 1 ========
+ figured when you disappeared, but I know that you came back.
+That’s not to say I didn’t worry. I did worry. But, before the second semester finished, I asked Ethan if he knew of any help or places to look for answers to his delayed questions.
+He gave me a sheepish smile, and returned to checking his watch minutes before the exam began. I noticed that the flashlight he had brought was heavier than I would have expected, but I wasn’t particularly troubled by it. Ethan had always been picky about where he went off the grid, and I had no idea where he had hidden these caches.
+Still, it was a cold night in December, and the first thing I worried about Ethan was the clocks. I had kept my nightly vigil lower than I had ever done in the nights since my return, and the nights had not been this way for some months. I had done my best to discourage him from going to bed early, but it was still an every-other-week ritual.
+Ethan had always been picky about where he went to sleep. Even before he told me his secrets, I could count the minutes until I heard that heavy tread outside the door, and had known that creeping nightmare for so long I could no longer be sure where to go in the dark.
+So I waited. I had been faithful to the Light of Deliverance only for the sake of my students, and to my dying day, I would have sworn that my preaching surpassed the powers of darkness in that hour and a half. And I stood before the altar, straining my preaching hand until I had touched it, and heard the voice of my Saviour, shouting, “Come, Lord Jesus, be our salvation!” But the tongue that reached my mouth was words, hollow and waved in the darkest corners of the universe, and as I uttered the name “Blessedness,” I felt my own salvation begin to flow out and bubble up out of me.
+In the end, I put the hour of my death before the service at the altar. I would have finished the service, if not for the dire shortage of alcohol I had encountered in the hours before. I stumbled, and my bones were broken, but I remember that shift count was not something I thought about until just now.
+There was no-one else who could tell me what happened, and no-one in the hall except Wilfred and myself could clearly see the brightness of my burning flesh. But there was something else in that burning fat, something that after the Lord’s return was still something I could not bring myself to call attention to myself. When I awoke, I could not clearly scream or cry out, as the others had all but left me to my own devices. What I could do, however, was have a look around the room to see if I could find Wilfred, and see that in the centre, where there should have been a door, there was was was a footprint. It was short and thin, and I think, given how close I lived to the pit, I probably shouldn’t be able to discern it much by the smell of decay, but I saw it.
+It was not one of the grottoes I had come to know and love, though I do love the place Hornblower Mountain Range is now. It was a good 15 or 16 miles to the south, in what was at that time a forest preserve, and we set out from a logging road, quite familiar from years of driving there. It was almost dark by this point, and we did not want to head out until we had had a chance to rest. I did not think much of it, however, as there were bogs on the other side, and we would inevitably be parted on that side.
+It was only when we were almost half way that I realised we had left the camp. I had taken to keeping a close eye on the place as much as possible, but I had never before felt the full power of the place. I saw cows, I thought, as I drove through the field. I did not stop to check if they were graved, as I had too much to do. Finally, I saw a building. It was old, like a log cabin, with a well-kept list of founder dated back to the mid-19th century. I paid the clinic a visit, and was told that Mr. Dalzell had passed away while on leave.
+I don’t know why I drove so fast through the blockade, but I did. The thing that stood out most to me, however, was the building itself. On the one side, a stark, angular shape, the top of it had been crudely nailed over in a jagged black shadow, and the words “DETECTION FROM THE FANS” scratched into the wood of the cabin. Atop it, in very stark white
+
+[14210 | 7415.52] loss=0.13 avg=0.10
+[14220 | 7448.00] loss=0.04 avg=0.10
+[14230 | 7480.57] loss=0.06 avg=0.10
+[14240 | 7513.12] loss=0.07 avg=0.10
+[14250 | 7545.66] loss=0.08 avg=0.10
+[14260 | 7578.21] loss=0.11 avg=0.10
+[14270 | 7610.62] loss=0.14 avg=0.10
+[14280 | 7642.95] loss=0.05 avg=0.10
+[14290 | 7675.41] loss=0.13 avg=0.10
+[14300 | 7707.92] loss=0.06 avg=0.10
+[14310 | 7740.42] loss=0.08 avg=0.10
+[14320 | 7772.92] loss=0.08 avg=0.10
+[14330 | 7805.39] loss=0.07 avg=0.10
+[14340 | 7837.88] loss=0.07 avg=0.10
+[14350 | 7870.35] loss=0.16 avg=0.10
+[14360 | 7902.89] loss=0.13 avg=0.10
+[14370 | 7935.43] loss=0.06 avg=0.10
+[14380 | 7967.97] loss=0.09 avg=0.10
+[14390 | 8000.55] loss=0.06 avg=0.10
+[14400 | 8033.19] loss=0.06 avg=0.10
+======== SAMPLE 1 ========
+ greater. I never learned for sure what would have happened if there’s still daylight. Maybe it’s nothing. I didn’t watch the lights when I went to sleep, because I figured I shouldn’t have, and the last time I saw them without them. Or maybe they’re just dead. It doesn’t matter. As far as I know, there’s nothing left of either, though, and I’m left with only the vagueest impressions of them.
+
+One of them had a broken window, where the top of the stairs had been; the one below had clearly once again been perched on the broken side. Above, the stairs were gone, and the cold had just covered the place.
+
+Then I found something that made my mouth dry up and my mind scream to run. It was a picture of an old man versus spider. It showed one looking to the other, alive and breathing, though where the hands connected the legs was completely black. And then, to the side, where the arm met the torso, was the same picture over and over, with the black covering the rest of it. It was frozen in stark terror; the eyes sunken, and the mouth hanging open as though expecting a bite.
+
+And in front of that creepy, dead thing sat something that glowed indigo. It looked like a man’s face, entirely unfiltered and utterly still. I could feel a shuddering panic beginning to overtake me, and I desperately wanted to touch that hand that was firmly gripping the handle of that strange, old pot. I couldn’t move. It was completely still, and I didn’t even feel the pot itself being lifted or swung.
+
+Finally, my foot slipped, and I fell forward, smacking my head on the tabletop and losing it instantly. I tried to regain myself, to try and focus, but I couldn’t even speak. I just staggered, falling to the floor and spasming until I collapsed. I just staggered, falling to the floor and spasming until I fell. Just falling. Falling to the floor and shivering until my brain couldn’t connect to the unfamiliarity of this person who had moved in next to me. It was a complete waste of time, as every second felt more swiftly than the last. And when I woke up, the person who had been next to me was gone, and in their place there was only the stillness of a large, well-done portrait. It had no face, no eyes, nothing to identify it, but I remembered that it had used to be a person. A perfect representation of what I had always dreaded. Every curve and every seam had been covered, leaving little or no skin exposed. And I remembered that, against the vivid, warm flood of pix, the eyes seemed blank, though not clouded like the person in question, rather than confused or frightened.
+
+I walked carefully over to the now-open side door. It was colder than the rest of the house. My mind screamed to stop me going in there, but my arms just flew up to prevent myself opening the door. I was already too warm. The snapping of brittle bone flesh as the bone spoke no words of warning as I finally smashed mychancellor. It collapsed almost immediately, bursting like a champagne corkscrew, and a shower of blood flowed from the top, spraying out in a trickle of red. I staggered back to my van, pouring the last of the stuff through the now-open side door. It was under that tree, where I had seen my mum, and my head throbbed with pain. I don’t remember panicking. I remember being cold. It was 7:00 in the evening, but outside was glorious, the wooly glow of sunset lit up by the glow of the pit viper.
+
+I still remember the flush of sweat as I opened the back door to the waiting van. The silence, that dread that just hung there, like a noose around my neck. I drove away, leaving the pit viper there to wait.
+
+That was when I ran into my first sat-nav. I don’t know if it was because I remembered the value of the place and the speed, but I nevertheless decided to pay for it.
+
+Obviously I was hoping that a rash of weed smokers couldn’t pass it off as a test, but it wasn’t long before I was hearing the terms “maze” and “noisy trap door” splashed over and over again. Whatever was going on out there, it was something to do with the pit viper.
+
+Another trip to Australia, another fascinating low-tech scam. I was spending enough time down there that I wanted to, to bring my own Aussie friends. Quickly enough, though, I realised they couldn’t
+
+[14410 | 8102.33] loss=0.09 avg=0.10
+[14420 | 8134.90] loss=0.13 avg=0.10
+[14430 | 8167.57] loss=0.10 avg=0.10
+[14440 | 8200.16] loss=0.14 avg=0.10
+[14450 | 8232.74] loss=0.06 avg=0.10
+[14460 | 8265.32] loss=0.06 avg=0.10
+[14470 | 8297.87] loss=0.14 avg=0.10
+[14480 | 8330.37] loss=0.06 avg=0.10
+[14490 | 8362.84] loss=0.08 avg=0.10
+[14500 | 8395.30] loss=0.08 avg=0.10
+Saving checkpoint/run1/model-14500
+[14510 | 8435.75] loss=0.05 avg=0.10
+[14520 | 8468.25] loss=0.06 avg=0.10
+[14530 | 8500.68] loss=0.10 avg=0.10
+[14540 | 8533.08] loss=0.06 avg=0.10
+[14550 | 8565.55] loss=0.05 avg=0.10
+[14560 | 8598.01] loss=0.11 avg=0.10
+[14570 | 8630.57] loss=0.10 avg=0.10
+[14580 | 8663.02] loss=0.18 avg=0.10
+[14590 | 8695.44] loss=0.10 avg=0.10
+[14600 | 8727.87] loss=0.11 avg=0.10
+======== SAMPLE 1 ========
+ done, but there was little in Mike’s face that I couldn’t understand as disappointment. Or fear. My former assistant, though, I will admit it’s easier than trying to recreate my father’s voice.
+
+I tried to listen closely as this was being discussed, but I could only stare at his response, which was… steady, predictable, and served to cement my belief that he had watched me steal his niece’s virginity for a million dollars.
+
+As it was going on, Mike leaned back in his chair, as if waiting for me to strike again, and I realised he was indeed studying the table with an expression that seemed more studying than anger. Before me, Mike stood there, defiant, brand new to this - pointless play.
+
+But what really got me, what made me hate my former assistant more than anything, was what I saw when I reached his table.
+
+I saw his mouth twist into something Mike had said was a smile. It, it, it looked like a smile of approval, but underneath, the smile was full of cruel secrets.
+
+I saw his eyes narrow around the edges of his mouth, and the hollow of his throat. I saw his lips move, moving down and around the inside of his throat. And my heart stopped.
+
+Where did he go? To the window where he had stood before? To see the street vendor come galloping down the A10 outside? To relish the carnival atmosphere once again?
+
+I never saw him again.
+
+[CLICK]
+Theatre
+
+The matronly voice of the matron said nothing of importance, but the presence of the speaker was clear even without his voice. The words were crisp and clear in my mind, but their cadence was chaotic, and they flowed out of me in a flood of sounds and images.
+
+Every branch of the tree were I could retrace to, every nail I could point firmly placed, to where the old man had lain helplessly. Had I dared raise my voice, my mouth would have hit something soft and damp, but I stood mute.
+
+In the twinkling dusk, the steam that rose from the pit of my abdomen was the strangest thing I had ever heard. It were none of my things, but they nonetheless held my attention, caressing my face and roiling my limbs as though they were making my presence their own. The things that had been cheering me loud and proud had long since vanished, and a silence had grown between them. I stood there, decayed and distorted, with aching hollow inside of me. They had all gone, the bloodless victory of those that served the pit. I decided that I belonged there, like I had belonged to the war in which I had spent so long. In the winter, when the world had forgotten me, the rush of summer air gave me another dwelling, another cold and still deeper fear.
+
+And the soldiers had barely had to pull me from the wailing copper wire when they had found the first of the graves. It were the first of the three I had needed to find to make my way out, and they had been dug so deep into the wall of the chapel that, if I were to guess at age, I would have said they had been dug for the body of the man I had found. More than that, they had been dug so deep into the wall of the church that, if I wanted to lay my head upon one of the stakes, I could not. The grave markers themselves were old, and those that had fallen had dug in places where they had not been needed. There was no chance that they were the boys playing in the field next to my house.
+
+I pushed the boy into the grave, and the grave opened quickly, an hour or two of waiting, testing, resting assured that the sky was safe. After this, they would take the body, and no one would ever know that I had ever existed.
+
+I did not sleep that night, nor the one after that. Those nights were nights of night and fear, and I dreaded the thought that they were occurring again. It occurred within my dream again, not in the calm I had sought to construct here, but to focus on something dark and utterly bereft of life. At first I simply waited, focusing on the stirring and the movement of those silent bones, but they withdrew back into the ground, stillness and gloom. Fear was in no state to perform its rites of silence, and I knew that when it was time for the dedication of the pit, it would move and sing in time.
+
+I was almost forty when I awoke, though it was a false alarm. Though the wound had not healed nor does it heal naturally, my father and I having now passed through a great deal of corruption, the vision was… clear. We were headed towards a large, stone structure, standing alone some few steps
+
+[14610 | 8796.80] loss=0.15 avg=0.10
+[14620 | 8829.23] loss=0.08 avg=0.10
+[14630 | 8861.72] loss=0.20 avg=0.10
+[14640 | 8894.18] loss=0.11 avg=0.10
+[14650 | 8926.74] loss=0.08 avg=0.10
+[14660 | 8959.29] loss=0.17 avg=0.10
+[14670 | 8991.84] loss=0.09 avg=0.10
+[14680 | 9024.38] loss=0.06 avg=0.10
+[14690 | 9056.86] loss=0.08 avg=0.10
+[14700 | 9089.33] loss=0.14 avg=0.10
+[14710 | 9121.76] loss=0.06 avg=0.10
+[14720 | 9154.23] loss=0.08 avg=0.10
+[14730 | 9186.68] loss=0.08 avg=0.10
+[14740 | 9219.01] loss=0.09 avg=0.10
+[14750 | 9251.32] loss=0.10 avg=0.10
+[14760 | 9283.75] loss=0.22 avg=0.10
+[14770 | 9316.23] loss=0.11 avg=0.10
+[14780 | 9348.74] loss=0.13 avg=0.10
+[14790 | 9381.24] loss=0.16 avg=0.10
+[14800 | 9413.70] loss=0.12 avg=0.10
+======== SAMPLE 1 ========
+ watch the scene in an adjoining room. A few strands of twined around his arm and his neck, crossing under those veins, and ending in a short fizzling bubble.
+
+I ran away. Obviously. I ran away. It wasn’t like it could have escaped me, but it didn’t really matter. I’m not very good at hiding things from you, is I? Well, this one was different. I think.
+
+It was like a… a whirlwind, not in the sense that the wind carries its sound, it’s more like the air just rushes out at once. I felt it, you know? Like you’re filling your mouth with molten chocolate.
+
+MARTIN
+Oh.
+
+DAISY
+With one flick of the wrist, and that hair without a whisk? You know what I’m talking about.
+
+[MARTIN SNIFFS AGAIN, WEARY AND GROAN.]
+MARTIN
+…
+
+You were there, weren’t you?
+
+DAISY
+Yeah. Went to school with Martin. Us teachers must have known each other somewhere.
+
+MARTIN
+I… sorry. Look, it, it’s just, it’s just me. Sorry. Tried to, to go back to sleep, but - (sigh) George’s got a cinema, and I thought, what, I was just so unlucky. Or maybe there’s a third possibility.
+
+DAISY
+What, a, a chance encounter?
+
+MARTIN
+Yeah. Or maybe there’s a, a, a ghost or something. (heh) It doesn’t matter. I just… I know it’s me.
+
+DAISY
+Are you… Are you Mary?
+
+MARTIN
+She’s not that. No, not really. She was kind of a scrawny little kid. Didn’t really match the mould. Didn’t match the environment.
+
+DAISY
+Makes sense.
+
+MARTIN
+No, no, it doesn’t. She’s changed a lot.
+
+DAISY
+Really. I’m sorry. I always thought being shy meant I was very stupid, but… I’m sorry. I think I was stupid. But I didn’t notice.
+
+MARTIN
+It’s not you. Not really. At least I wasn’t. I knew it, you know. Not like – like you or I or the others would or should change, we’re all just going through the motions.
+
+DAISY
+Maybe you did notice.
+
+MARTIN
+Yeah. Y-yeah, maybe. Look, we just need to figure this out. I mean, if I’m not going to be seeing you… I want you to know that I deeply appreciate you being honest.
+
+DAISY
+…
+
+What?
+
+MARTIN
+I-I’m sorry?
+
+DAISY
+Ok, ok, I know that’s not actually how I feel about it. I-I’m sorry. I should have… I didn’t… I didn’t take the right approach, there was… there was confusion there. I-I think. I don’t know how honest I was with Basira. I don’t want to be accountable for what happened to you.
+
+MARTIN
+But… but what?
+
+DAISY
+Look, Martin, there’s no need for you to be sad. I know how you were raised, and no-one expects you to change, but I have good news for you. I’m going to work with Maxwell Rayner. I’ve thought about starting up a few enterprises of my own someday, but… good news, bad news, it’s not like you or I or the Thievius. We’re too important to be thrown out of the family business.
+
+MARTIN
+(responding) What?!
+
+DAISY
+Maxwell, I’ve been in touch with him. He’s trying to get funding to expand his business. I’ve been telling him it’s not a priority, that growing his business requires going out of the family business, but he’s just ignoring me. I’m going to stick around.
+
+MARTIN
+(angry) Right.
+
+DAISY
+Hey, you should probably go see him, should I know him? I just worry.
+
+MARTIN
+No. I don’t - I don
+
+[14810 | 9482.91] loss=0.09 avg=0.10
+[14820 | 9515.41] loss=0.14 avg=0.10
+[14830 | 9547.89] loss=0.05 avg=0.10
+[14840 | 9580.34] loss=0.07 avg=0.10
+[14850 | 9612.81] loss=0.06 avg=0.10
+[14860 | 9645.37] loss=0.08 avg=0.10
+[14870 | 9677.88] loss=0.06 avg=0.10
+[14880 | 9710.37] loss=0.18 avg=0.10
+[14890 | 9742.86] loss=0.21 avg=0.10
+[14900 | 9775.39] loss=0.09 avg=0.10
+[14910 | 9807.97] loss=0.07 avg=0.10
+[14920 | 9840.55] loss=0.10 avg=0.10
+[14930 | 9873.02] loss=0.08 avg=0.10
+[14940 | 9905.53] loss=0.05 avg=0.10
+[14950 | 9938.08] loss=0.06 avg=0.10
+[14960 | 9970.70] loss=0.07 avg=0.10
+[14970 | 10003.26] loss=0.07 avg=0.10
+[14980 | 10035.84] loss=0.13 avg=0.10
+[14990 | 10068.40] loss=0.13 avg=0.10
+[15000 | 10100.97] loss=0.17 avg=0.10
+Saving checkpoint/run1/model-15000
+======== SAMPLE 1 ========
+ie. (shaky inhale) I’m going in.
+
+MARTIN
+Oh, come now. What do you want? To challenge me? To - to see? Or do you simply - (mirthless laugh) Why do you need my story?
+
+SIMON
+Humour me.
+
+MARTIN
+(sharp exhale) Because you are. And I am. And by I’m I mean - everything Peter and AA never told, ever. Ever.
+
+SIMON
+(sharp exhale) In that case, I’m afraid I don’t actually have much to contribute to the conversation. But I would like to at least hear your side of this.
+
+MARTIN
+...
+
+Well?
+
+SIMON
+Let’s begin.
+
+Last year, I began my journey towards my Savior. I intended to walk the churchyard and glean what blessings and comfort I could from the situation. I gathered a small crew and began to sail through the waters of the South Pacific. I was unprepared for the intensity of the winds and the unforgiving seas. I stowed my bike and walked with my vision intact. I was alone in the world as I watched alone in the end. I did not link up my camera with my boat as I traversed the drifting twilight of the world, sea of dying worlds, the dying worlds still teeming with life and beauty.
+
+I did not look down at my watch. I watched it, the screen illuminating my salvation as I floated through the air
+
+MARTIN
+Your vision comes too narrow to be simply familiar.
+
+SIMON
+It was bright enough to cross a candlelit sea of corpses, easily. Even in my weakened state I thought it handsome. Even in my well-cleaned, lavishly ventilated body, I noticed a faint scorching around my feet. I shuddered as I touched the spot, and began to sweat profusely.
+
+I don’t think it’s going to stop me. I can’t see the ends of the earth without my torch.
+
+MARTIN
+That’s blasphemy, Simon.
+
+SIMON
+Be so kind to stop.
+
+MARTIN
+Ignorance isn’t exactly it.
+
+SIMON
+No, no, it isn’t. I’ve hunted down stories of this man, chopping him to pieces, eating his flesh. Stories of corpses falling from the high mountains after being chopped into little pieces. I don’t write off those that see me as stupid, as long as they don’t succeed in simply whispering their evil death to my ear.
+
+MARTIN
+That’s blasphemy, Simon.
+
+SIMON
+It is, and you know it. But I nonetheless believe you to be the tribune of the dead, a personal lost message that needs to be sent to the living. That your life has meaning only as it returns to me.
+
+MARTIN
+I see. That’s blasphemy, isn’t it?
+
+SIMON
+There is hardly a greater insult to my calling myself a servant than to call someone an idiot.
+
+MARTIN
+Then what?
+
+SIMON
+I am not an idiot. I have always known that to be a lie.
+
+MARTIN
+Then why do you need my story?
+
+SIMON
+I need it to save you.
+
+MARTIN
+You said that the stone was inert, harmless.
+
+SIMON
+The word you’re using is dangerous.
+
+MARTIN
+Which reminds me of the time you used the word vegetable.
+
+SIMON
+I’m afraid that’s taken a wrong turn.
+
+MARTIN
+Oh, you’re obviously aware of the word.
+
+SIMON
+This is not the time for the polite conversation you normally have with an animal.
+
+MARTIN
+I’m not going to let it back in my flat.
+
+SIMON
+Oh, sure. I’ll come and we’ll discuss gardening and… mostly eat our way through the place.
+
+This is the second such conversation I’ve had in as many months. I find myself used to it, too.
+
+MARTIN
+Yeah.
+
+SIMON
+Do you still have the key?
+
+MARTIN
+I… yeah.
+
+SIMON
+Oh! That reminds me - why have you been going out of the house?
+
+MARTIN
+For the trees. I used to just leave them be. I mean, when I get home I’m usually asleep. Then I stumble across them in the garden, and I’m like… I think
+
+[15010 | 10177.37] loss=0.08 avg=0.10
+[15020 | 10209.85] loss=0.08 avg=0.10
+[15030 | 10242.37] loss=0.10 avg=0.10
+[15040 | 10274.81] loss=0.08 avg=0.10
+[15050 | 10307.33] loss=0.10 avg=0.10
+[15060 | 10339.83] loss=0.03 avg=0.10
+[15070 | 10372.35] loss=0.09 avg=0.10
+[15080 | 10404.87] loss=0.07 avg=0.10
+[15090 | 10437.45] loss=0.13 avg=0.10
+[15100 | 10469.97] loss=0.07 avg=0.10
+[15110 | 10502.52] loss=0.10 avg=0.10
+[15120 | 10535.03] loss=0.07 avg=0.10
+[15130 | 10567.55] loss=0.05 avg=0.10
+[15140 | 10600.12] loss=0.08 avg=0.10
+[15150 | 10632.62] loss=0.09 avg=0.10
+[15160 | 10665.16] loss=0.09 avg=0.10
+[15170 | 10697.74] loss=0.07 avg=0.10
+[15180 | 10730.37] loss=0.05 avg=0.10
+[15190 | 10763.00] loss=0.07 avg=0.10
+[15200 | 10795.56] loss=0.13 avg=0.10
+======== SAMPLE 1 ========
+… but I thought that the man-made nature of the river and its consequent swarming life seemed to me just about optimal for an urban exploration trip like this.
+
+I crossed the old bridge over the River Thames, and headed back towards Tower Bridge. By the time I reached the bridge, it was only myself and Agnes, had wandered across it. Then, we simply put our trunks down and walked back towards the old school.
+
+I don’t know how much you know about, but the workhouse was not part of the normal prison service career paths. Any time you narrowed it down, there were several stories telling you about people who worked in your area. They might have been spinners, but they might also have been handlers, depending on how prestigious their service might have been. They definitely didn’t exist outside of your experience.
+
+If you didn’t know any more about the situation, I highly recommend you go back to the library. All the videos are dated, and if you’re lucky, maybe you’ll find someone here at all.
+
+Still, I shouldn’t have come down here. I’m pretty sure I don’t know why. If you don’t know what a Wi-Fi signal is, or where exactly it is, you can’t possibly think to look up, and I can’t help but feel that your whole job is to find these things, steer them towards you, destroy them.
+
+I found a body about two weeks ago. It was Italian, and a corpse. It looked like a man, but it could have been anyone. You know the human skeleton? No? I didn’t ask. Then I went back to the Tube station, bought a ticket through to Lewisham, and spent another hour onwards signalling around the station.
+
+Then I decided to actually look this guy up. I knew there was nothing I could do, but if he was there, I would be in contact, so I did a little bit of research, and sent a few messages to various musicians and artists who frequented the area.
+
+I didn’t really expect anything, but I got in touch with Julian Awful, who confirmed that he did have a Hispanic heritage, though I wasn’t able to find anything definitive on the phrase “His Name Was Hector'. If there’s one thing I hate more than statements that can only be read once, it’s someone who can read it twice.
+
+Anyway, after a few messages back and forth, I decided to pay a short visit to the place myself. I didn’t really have a picture of the smell, so the first thing I noticed was the fact that Julian didn’t actually have any jars with him. Now, it’s rare for a person to be able to smell a thing, even an inch, decay, or even a grain of sand. It took me a few seconds to notice this, but the jar was full of beads, and not a single one was clean.
+
+As I got up the stairs, I passed by theberwald on the other side; now it was time to pay my respects. As I turned the corner, though, I saw someone else stood there: a young woman with a side-burn. As she looked at me, the lightbulbs in her eyes were off, and there was something in the back of her light that made me feel ill.
+
+I said something to the woman, but she didn’t respond. I asked her if I could help, but she just shook her head. I asked her what was wrong, but she just shook her head. “Nothing interesting.”
+
+I didn’t really know what to do. Should I tell someone about this? Should I tell them I stumbled across a stranger’s statement? I shook my head, saying that there was no way I could help, as this was just the first time it had happened. Surely someone must have seen it, somehow. Surely they must have known about Gertrude’s tapes.
+
+But they did not.
+
+I didn’t realize that this would be the last one I ever need to hear.
+
+And it was at that point I realized something else. Whether or not I believed it, the line between paranoia and schizophrenia seemed to be getting thinner every day. Whether or not I’d even noticed it before had now blurred into a blurry blur. Sometimes it’s hard to tell if I’d notice anything out of the ordinary.
+
+I never went back in the Tube after that. I eventually did, though it was a very strange trip and I don’t think I’ll ever understand what I was looking at.
+
+ARCHIVIST
+Statement ends.
+
+We
+
+[15210 | 10864.65] loss=0.06 avg=0.10
+[15220 | 10897.19] loss=0.09 avg=0.10
+[15230 | 10929.77] loss=0.05 avg=0.10
+[15240 | 10962.33] loss=0.10 avg=0.10
+[15250 | 10994.85] loss=0.06 avg=0.10
+[15260 | 11027.40] loss=0.12 avg=0.10
+[15270 | 11059.90] loss=0.10 avg=0.10
+[15280 | 11092.43] loss=0.09 avg=0.10
+[15290 | 11124.99] loss=0.14 avg=0.10
+[15300 | 11157.57] loss=0.10 avg=0.10
+[15310 | 11190.13] loss=0.22 avg=0.10
+[15320 | 11222.68] loss=0.11 avg=0.10
+[15330 | 11255.21] loss=0.08 avg=0.10
+[15340 | 11287.69] loss=0.09 avg=0.10
+[15350 | 11320.22] loss=0.10 avg=0.10
+[15360 | 11352.78] loss=0.07 avg=0.10
+[15370 | 11385.27] loss=0.15 avg=0.10
+[15380 | 11417.75] loss=0.12 avg=0.10
+[15390 | 11450.28] loss=0.07 avg=0.10
+[15400 | 11482.80] loss=0.11 avg=0.10
+======== SAMPLE 1 ========
+BALLP]
+[THE BUILDING OPENS AND DAISY ENTERS, STEPSING FASTER THAN EXPECTED]
+DAISY
+(quietly) Sorry.
+
+ARCHIVIST
+(surprised) No - I, I didn’t -
+
+DAISY
+(overlapping) I’ve been - I’ve been keeping an eye out for this.
+
+ARCHIVIST
+(overlapping) W-what?
+
+DAISY
+You know Gertrude?
+
+ARCHIVIST
+(overlapping) Wh - no.
+
+DAISY
+Go find your Basira.
+
+[ARCHIVIST LEAVES, Determined, as she Simmonds Returns]
+BASIRA
+Don’t.
+
+[SILENCE BUT FOR DAISY’S BREATHING]
+DAISY
+Basira?
+
+ARCHIVIST
+I, I’m sorry; I didn’t -
+
+DAISY
+Don’t.
+
+ARCHIVIST
+Well, I, I assume it’s enough -
+
+[MORE SILENCE]
+ARCHIVIST (CONT’D)
+- that we’ve successfully neutralized the dark matter generator.
+
+ELIAS
+.
+
+BASIRA
+But why?
+
+ELIAS
+(cheek) Wish I could tell you.
+
+[IN THE BACKGROUND, THE Crawling Hand grasps AT THE COFFIN; IT’S PUT DOWN AGAIN]
+BASIRA
+Are we done?
+
+ELIAS
+I’m afraid so are they. There’s gonna be a lot of them.
+
+[MORE SILENCE]
+ARCHIVIST
+Statement of Elias Bouchard, aka Dr. Pritchard, regarding the night of 23rd January, 2006. Original statement given February 14th, 2007. Audio recording by Jonathan Sims, The Archivist.
+
+Statement begins.
+
+ARCHIVIST (STATEMENT)
+You don’t need me to tell you what a day studying anatomy is. I’ll call it what it is, and you’ll have to read an account of how it became a thing.
+
+But let me tell you what it isn’t. It isn’t a statement. It isn’t a vision. It isn’t a ghost. Because what it is is blood. And needles and gangrene and itch. That’s what it is. That’s what we put patients through, to tell you what it is.
+
+You don’t need needles or gangrene or itch. What it is is is vulnerability. Isolated, raw, sometimes dangerous, but it is not what leads to outbreaks of infection. Corridors; panic; panic; sometimes it’s just the lack of structure that lets people suffer such a fate.
+
+I was on a boat for two days. No doctor or hospital, no testing, no appointments. We had just touched on the second largest outbreak of disease in human history, as many as six million people, half of them children, who faced death within a few months. It was a gruesome way to look at things, but it was the only way to make sure that nothing was going to go in there.
+
+There was a boat there, headed towards the Galápagos, a tiny island off the mainland. It shouldn’t have been that, but looking at it, I couldn’t help but notice the stenciled names on the side: Diego Molina, Diego Molina, Diego Molina. I don’t know the others. I hope not.
+
+There was nothing on it, but… when the water was high enough that you could see the stars through the dark clouds, far off in the distance. One of the children’s smiles was the same. A quick, jerky motion, like a vice squeezing the hand away from your face.
+
+As it made its arduous way across the ocean, I watched it for a long time. It seemed to be completely alone.
+
+Then it moved, slowly, but clearly, and I realised what I was looking at.
+
+It was when I came close to falling off my seat that I felt something. I didn’t cry, just sat there, metal bars embedded in my flesh, waiting to fall off.
+
+I don’t remember much more of what I felt than the occasional flare of sunflower, a spindly friday, a hint of iron and a splash of red.
+
+As the day wore on, the tension in my loins disappeared, and soon I was sleeping peacefully beside Diego.
+
+When the
+
+[15410 | 11551.74] loss=0.09 avg=0.10
+[15420 | 11584.20] loss=0.08 avg=0.10
+[15430 | 11616.69] loss=0.10 avg=0.10
+[15440 | 11649.21] loss=0.13 avg=0.10
+[15450 | 11681.75] loss=0.07 avg=0.10
+[15460 | 11714.19] loss=0.07 avg=0.10
+[15470 | 11746.66] loss=0.12 avg=0.10
+[15480 | 11779.07] loss=0.11 avg=0.10
+[15490 | 11811.65] loss=0.08 avg=0.10
+[15500 | 11844.11] loss=0.17 avg=0.10
+Saving checkpoint/run1/model-15500
+[15510 | 11884.12] loss=0.07 avg=0.10
+[15520 | 11916.63] loss=0.10 avg=0.10
+[15530 | 11949.14] loss=0.08 avg=0.10
+[15540 | 11981.68] loss=0.08 avg=0.10
+[15550 | 12014.19] loss=0.22 avg=0.10
+[15560 | 12046.73] loss=0.10 avg=0.10
+[15570 | 12079.21] loss=0.11 avg=0.10
+[15580 | 12111.73] loss=0.08 avg=0.10
+[15590 | 12144.19] loss=0.06 avg=0.10
+[15600 | 12176.72] loss=0.18 avg=0.10
+======== SAMPLE 1 ========
+ get a hotel or something?
+
+ELIAS
+[Heh] No, it’s fine.
+
+LEITNER
+A-Always worth it!
+
+BASIRA
+Yeah.
+
+ELIAS
+[I’m] Very well.
+
+[FOOTSTEPS DEPARTING WITH BASIRA]
+BASIRA
+Okay. Let’s… yeah, start from the beginning.
+
+[CLICK]
+[CLICK]
+ARCHIVIST
+Statement of Antonia Haley, regarding a… strange computer program she downloaded from the Deep Web three months ago.
+
+Original statement given March 31st, 2014. Audio recording by Jonathan Sims, head archivist of the Magnus Institute, London.
+
+Statement begins.
+
+ARCHIVIST (STATEMENT)
+Okay, I know how it looks like from a copyright standpoint, but if you just look at the claim of infringement, then yes. The- uh, the first time it appeared on my computer was when I was nine. I got into a fight in school, and nobody was hurt. It was after having spilled milk on a friend of mine; she had it streaming down her throat. And I watched, transfixed by that featureless face of her, staring back at me. In the background, I could see a spider. I think it was the first time there had been a spider that I’d seen since we were children.
+
+Since then, I used to spend a lot of time outside, and I would spend long afternoons hunting for hidden webs. I was often not sure exactly what I was looking for, but I would spend a lot of time just sat there, watching the web that grew and spread out of the corners of the garden. I must have looked after the house for a good ten or eleven years straight.
+
+Obviously, the webbing went out after that. I don’t know how precisely I knew it was going to stop, but once or twice I think it got stuck. I could always see it in the sunlight, stretching away into the blue sky, or the dark, swirling clouds above the city.
+
+I could never figure out what it was, or where, but it always looked to be coming towards me, and I could never get close enough. Looking back, it looks like that was the point: that moment I was, I decided to run. I didn’t turn around, nor do I have any other plans, so when the webs were dragged across the floor and caught I decided I was running.
+
+I’m sure you can guess the plan. I got in through the front door. I knocked on the door and it opened. There were no lights on inside, and the place was utterly silent, but my fear didn’t let me relax. There was no safe, or a key, or… Package! I got as far as the drawers and slid inside.
+
+My parents were very alarmed by this. They Uncaged me a bit and started to push me out of the door. What did you expect? Did they know something I didn’t? Could they have predicted this would happen? I didn’t really have anything to say to this, so I just nodded, got out of the car, and began to cover the door. Once I had got a look inside, they were both quiet. They stared at me for a long moment, but then they started to walk up towards the door, and I realised there was a presence in the house. It was still, but it seemed to move. It was ever so slightly closer. I slowly crept towards it, but my mind was aflame with fear. I didn’t want to get inside.
+
+This pleading did nothing to quell the fear that had settled over me, and I pressed on. My hands began to grow wet with what I assumed, at the time, was sweat, and I started to shiver in what I can only assume was disgust. As I reached the second step up the stairs, I gripped the handle and moved it back down. I felt something soft and wet against the wood of the floor. I pulled my hand out and instinctively I gripped it. By chance I felt a small, ragged hole in the side of my shoe.
+
+I don’t know what I expected. Maybe I thought this would be the end of the story, and I was wrong. But what else could I expect from a book that claimed to tell its story? I pressed on, still no speaker heard me, and the story just kept going. The wall was reeking of ozone, and the subject was still her, still puzzling and misfiling. After a half hour I had almost written myself off. Except that now it didn’t feel so hopeless. I began to feel that I might have found a way to leave, and I did. I
+
+[15610 | 12245.94] loss=0.15 avg=0.10
+[15620 | 12278.50] loss=0.10 avg=0.10
+[15630 | 12310.91] loss=0.15 avg=0.10
+[15640 | 12343.41] loss=0.10 avg=0.10
+[15650 | 12375.97] loss=0.11 avg=0.10
+[15660 | 12408.54] loss=0.05 avg=0.10
+[15670 | 12441.09] loss=0.06 avg=0.10
+[15680 | 12473.64] loss=0.06 avg=0.10
+[15690 | 12506.23] loss=0.09 avg=0.10
+[15700 | 12538.78] loss=0.04 avg=0.10
+[15710 | 12571.30] loss=0.08 avg=0.10
+[15720 | 12603.84] loss=0.07 avg=0.10
+[15730 | 12636.35] loss=0.05 avg=0.10
+[15740 | 12668.84] loss=0.09 avg=0.10
+[15750 | 12701.30] loss=0.12 avg=0.10
+[15760 | 12733.83] loss=0.07 avg=0.10
+[15770 | 12766.34] loss=0.04 avg=0.10
+[15780 | 12798.81] loss=0.11 avg=0.10
+[15790 | 12831.26] loss=0.08 avg=0.10
+[15800 | 12863.69] loss=0.10 avg=0.10
+======== SAMPLE 1 ========
+. I’m - I’m sure you will - (shaky breath) You can trust us.
+
+MARTIN
+(weary) Yeah… Yeah.
+
+…
+
+(sharp inhale) Do you know how long that thing…
+
+ARCHIVIST
+(overlapping) Oh, don’t know.
+
+[HE LAUGHS. IT SOUNDS MORE LIKE A WHEEZE.]
+ARCHIVIST (CONT’D)
+(exhale) It’s - hard to tell.
+
+[WHEN MARTIN LAUGHS, ALL HUMORS TEND to SHIFT. IT COULD BE A LONG TIME BEFORE HE CATCHES BREATHING IN.]
+ARCHIVIST (CONT’D)
+Come on.
+
+[THEY COME; DAISY IS PREPARED TO READ.]
+DAISY
+This is stupid.
+
+ARCHIVIST
+(immediately) What - Why?
+
+[THEY ALL BEGIN TO LAUGH.]
+DAISY
+This isn’t how any of us wanted it to go.
+
+[RUSTLING.]
+ARCHIVIST
+But - It’s better than nothing.
+
+[THEY ALL BEGIN TO LAUGH AGAIN.]
+DAISY
+After a few more seconds, this is what I - I want.
+
+ARCHIVIST
+What is it?
+
+DAISY
+It knows how to kill.
+
+ARCHIVIST
+(overlapping) I - I want to kill it.
+
+[IN THE BACKGROUND, WE HEAR THE SOUND OF THE DOOR OPENING.]
+DAISY
+No.
+
+ARCHIVIST
+What?
+
+[THE DOOR CLOSES. THE ARCHIVIST EXHALES.]
+BASIRA
+Jon!
+
+ARCHIVIST
+God, if, if this thing is ready for him, this is why he’s - (exhale) - so unlikely to survive.
+
+[HE TAKES A DEEP BREATH.]
+ARCHIVIST
+I want to stop it.
+
+[TAPE CLICKS OFF.]
+[INT. MAGNUS INSTITUTE, ARCHIVES, JON’S OFFICE, A BIT LATER]
+[TAPE CLICKS ON.]
+ARCHIVIST
+(sigh) Hm. (small laugh) I’ve, uh, got a statement.
+
+[HE STOPS. SIGHS.]
+BASIRA
+Jon, you really don’t need to be so concerned.
+
+ARCHIVIST
+(hesitant) Yeah, I, uh, I guess I’m not.
+
+[BASIRA SIGHS.]
+BASIRA
+I thought it was pronounced “Kah-lee-o-pee.
+
+ARCHIVIST
+What did you say?
+
+BASIRA
+Heh. Like he was going to say something.
+
+ARCHIVIST
+E-Alright. Fine.
+
+[HE SIGHS.]
+BASIRA
+So. How exactly is it that you can ‘Archivist’ yourself so reflexively?
+
+[THE ARCHIVIST SIGHS.]
+ARCHIVIST
+Oh - (salt) Honestly, I don’t know. It doesn’t seem to be - culturally significant.
+
+BASIRA
+Right, well - I can’t exactly blame you.
+
+[SOME RUSTLING, AS SHE TAKES OUT SOME PAPERS.]
+ARCHIVIST
+What’s that?
+
+BASIRA
+That’s what I said, wasn’t it?
+
+ARCHIVIST
+(gasp) If you don’t -
+
+[SOMEONE Shoots]
+[LONG PAUSE, BASIRA SIGHS.]
+ARCHIVIST (CONT’D)
+(almost a whisper) Yes.
+
+[THE ARCHIVIST SIGHS AGAIN, WITHOUT A WALKING CREEK.]
+ARCHIVIST (CONT’D)
+(with compulsion) Why are you here?
+
+BASIRA
+Out of loyalty. Don’t know why.
+
+ARCHIVIST
+(with compulsion) Look, I-I get it - I just -
+
+[BUT IT’S DARTHOD, AND HE CAN’T HELP BUT CROSS THE EYE. SOMETHING’S CRACKING.]
+ARCHIVIST (CONT’D)
+Tell me.
+
+[THE DOOR CREAKS OPEN.]
+[THERE’S A GENTLE DR
+
+[15810 | 12932.63] loss=0.09 avg=0.10
+[15820 | 12965.06] loss=0.09 avg=0.10
+[15830 | 12997.59] loss=0.05 avg=0.10
+[15840 | 13030.08] loss=0.04 avg=0.10
+[15850 | 13062.58] loss=0.12 avg=0.10
+[15860 | 13095.15] loss=0.07 avg=0.10
+[15870 | 13127.63] loss=0.11 avg=0.10
+[15880 | 13160.21] loss=0.05 avg=0.09
+[15890 | 13192.75] loss=0.12 avg=0.10
+[15900 | 13225.30] loss=0.07 avg=0.09
+[15910 | 13257.91] loss=0.07 avg=0.09
+[15920 | 13290.45] loss=0.07 avg=0.09
+[15930 | 13322.98] loss=0.09 avg=0.09
+[15940 | 13355.48] loss=0.13 avg=0.09
+[15950 | 13388.06] loss=0.09 avg=0.09
+[15960 | 13420.58] loss=0.08 avg=0.09
+[15970 | 13453.13] loss=0.10 avg=0.09
+[15980 | 13485.69] loss=0.05 avg=0.09
+[15990 | 13518.18] loss=0.09 avg=0.09
+[16000 | 13550.62] loss=0.04 avg=0.09
+Saving checkpoint/run1/model-16000
+======== SAMPLE 1 ========
+ I don’t want to be too hard on him, John. Your job is to stop the Unknowing, and that’s all he’s ever really managed to do.
+
+Maybe that’s why he’s so keen to discredit all of my theories and assume the form of a surrogate for my own. It makes me feel ill, if that’s the case, but he’s just carrying on, so I’m just going to have to deal with it myself.
+
+I know he’s not human, but somehow, someway, I don’t think I’m human. Not the most stable of identities. Does that make sense?
+
+…
+
+I’m trying to think, trying to think through it all’s ‘cause I feel like I’m falling into a pit. Down to the wire, even.
+
+I don’t know if I’m human or not. That’s what makes me think I’m special. I mean, I’m just a spook, but I’m not a spook. Not like a fucking vampire or a monster or… I’m more of a spider.
+
+It’s hard to keep track of things sometimes. You know, like when you go to sleep and they pop out of you?
+
+Try to keep your eyes open and your mind alert. Don’t let your guard down. It’s not exactly a new thing, but I’m not sure I do it often enough. Anyway, I should probably tell you what happened.
+
+I… wanted to leave a statement. Maybe I’ve found out more about this ‘pit’ than I thought.
+
+It… bordered on and on the level, and if I had to guess what would happen, I would have said a mass grave.
+
+The pit was open, and speaking clearly, Jason was not disappointed. He’d picked the location with the most promise of being able to track down those who might have been present.
+
+Hopefully, we can convince them to open it, and maybe Jason can show them mercy and let us in. I mean, it’s not like it was their fault it was full of holes.
+
+It was a shame, of course. I would have been fascinated to read the statement, especially as there is one feature that I’m surprised Mr. Knox did not mention, namely, the use of live animal parts in place of the human body.
+
+Anyway, I suppose we’re just about done here. He’s not the only one whose job it is to find new angles on the human condition.
+
+[CLICK]
+[CLICK]
+MARTIN
+No, I think I get it.
+
+ELIAS
+Oh, of course. Well, if you’re still having any questions, don’t hesitate to ask them.
+
+MARTIN
+Um, why don’t you just go away?
+
+ELIAS
+As long as you can afford it, I’m afraid there isn’t a lot you could afford.
+
+MARTIN
+Right.
+
+ELIAS
+Perhaps you should consider becoming a hotel staff?
+
+MARTIN
+Right.
+
+ELIAS
+Thank you Martin. Now, how do I know you won’t just glare at me?
+
+MARTIN
+Glare is… not as good for disguising who you are as it is for, oh, and if you glare at me, I’ll make you memorable.
+
+[ELIAS CHUCKLES, BUT IT’S MIRTHLESS.]
+ELIAS
+Yes. Well, that’s certainly more interesting.
+
+MARTIN
+Yeah.
+
+ELIAS
+Ow!
+
+Change your outfit, Martin.
+
+MARTIN
+Ow!
+
+[ELIAS CHUCKLES again.]
+MARTIN
+[Incredulous] Oh, er, c-can we begin?
+
+ELIAS
+Fine.
+
+Before you ask - I have not completed my training.
+
+MARTIN
+None of my training?
+
+ELIAS
+You must have missed the announcement of the new Archivist.
+
+MARTIN
+Oh. In any case, you - you’re new.
+
+ELIAS
+[Grunts] Oh, yes.
+
+MARTIN
+I thought you said you’d only been a couple of years.
+
+ELIAS
+Yes, Anne, I’ve been with the Archive since… ah, I’ve been with most of these for a couple of years now.
+
+MART
+
+[16010 | 13627.46] loss=0.08 avg=0.09
+[16020 | 13659.92] loss=0.09 avg=0.09
+[16030 | 13692.45] loss=0.11 avg=0.09
+[16040 | 13724.96] loss=0.05 avg=0.09
+[16050 | 13757.47] loss=0.09 avg=0.09
+[16060 | 13789.90] loss=0.05 avg=0.09
+[16070 | 13822.33] loss=0.05 avg=0.09
+[16080 | 13854.80] loss=0.19 avg=0.09
+[16090 | 13887.27] loss=0.10 avg=0.09
+[16100 | 13919.73] loss=0.09 avg=0.09
+[16110 | 13952.20] loss=0.05 avg=0.09
+[16120 | 13984.69] loss=0.04 avg=0.09
+[16130 | 14017.16] loss=0.09 avg=0.09
+[16140 | 14049.57] loss=0.18 avg=0.09
+[16150 | 14081.94] loss=0.07 avg=0.09
+[16160 | 14114.31] loss=0.17 avg=0.09
+[16170 | 14146.65] loss=0.07 avg=0.09
+[16180 | 14178.98] loss=0.09 avg=0.09
+[16190 | 14211.33] loss=0.07 avg=0.09
+[16200 | 14243.80] loss=0.04 avg=0.09
+======== SAMPLE 1 ========
+ can make in one generation. It’s the future, isn’t it?
+
+[GASPING GURGLES]
+All this time. All this turmoil. I didn’t come here to gloat. I came here to tell you my story, you and I together.
+
+[SILENCE]
+I came into work yesterday to find a box sat on my desk. The address and label had been completely scribbled over in black marker pen, and it was impossible to tell from where exactly I got it. It wasn’t from India, though, or Tibet, or anywhere else in the world. It looked like the address had been written over in English, though, so I don’t necessarily think it was from any of the places listed.
+
+I was going to phone the police, but then I heard Katy’s laughter, just above my head. She said that they’d received a call and were on the way to the address included in the letter. They were questioning a man who they said had confessed to embezzling money from the company. The man, she said, was a suspect in a string of serious crimes, and she was sure he was the same.
+
+Obviously I was skeptical, and I asked Miss Prentiss if there was any way the police could get involved. She told me that there was nothing they could do, that there was no evidence to suggest the man had committed any crimes. Clearly there was no evidence, and I should have got a lawyer, but I was under no obligation to pay anyone a visit. I was just getting a bit excited.
+
+Then Katy got up and left, closing the door behind her. I can’t stress that enough. I could fall asleep, they said. Just don’t do it.
+
+I called the police again. They came in to question the man, but he was already dead. The autopsy showed carbon monoxide poisoning, due to a short-circuit, but it didn’t seem to show signs of violence, or any sort of mutilation, so I assumed it must have been natural. The police checked his death, and confirmed that it didn’t appear to involve any illegal activity, and that’s all the information I was ever able to get from the police.
+
+It’s weird, right? You’re all set to dood it up, put music and light into people’s basements, when they’re not even there. I mean, they took the body down, and started to disinfect it, but aside from a few police reports, there’s not been anything there from a decade.
+
+Obviously people get suspicious when they find out their neighbours are always watchful. I didn’t believe it, at least not until I got the call about his final project. I don’t know how it suddenly became the focus of a Murdocook documentary.
+
+It was a short film, by some pseudointellectual called Nikola Tesla. It’s still somehow relevant, even though the events themselves haven’t been demonstrably connected. But it was titled “The Prescription Man”, and while the film itself has nothing to do with Nikola Tesla, the prescient statements and findings seem to tie in with recent events.
+
+So, I had a small meeting with Niko, and a few other temporary staff. They were trying to organise an exhibition of his work, while I got to work on his computer. None of the people I brought in, or the people I hired, have returned to work on the Mauritsen research team, with the exception of one or two post-grad students.
+
+I wanted to keep the footage I had, for obvious reasons, and was worried about the legality of the footage. But I also realised that it was going to be monitored. I can’t take full advantage of the space, but I figured it wouldn’t be long until the students were back inside, so I gave Dana another description of the situation.
+
+She didn’t seem particularly worried, just looked over and nodded. It was technically legal, but she pressed me again to turn it off. I explained to her that I’d only given it as a last resort, and if there was anything you care to do about it, I’m all ears.
+
+She nodded, though, so I guess she didn’t really know what I was talking about. I reminded her that she’d need to talk to a manager, or something, but she didn’t seem really taken care of by them. I reminded her of the fine print on my provisional permit, and she handed me her lease and then left.
+
+It was about that time that the students returned. They all looked like students, though, and a
+
+[16210 | 14313.00] loss=0.10 avg=0.09
+[16220 | 14345.60] loss=0.09 avg=0.09
+[16230 | 14378.19] loss=0.07 avg=0.09
+[16240 | 14410.79] loss=0.10 avg=0.09
+[16250 | 14443.35] loss=0.06 avg=0.09
+[16260 | 14475.88] loss=0.12 avg=0.09
